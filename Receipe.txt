@@ -1,3 +1,6 @@
 Git Pratice of merge and branches.
 
 Test
+Test 2
+
+Thank you
